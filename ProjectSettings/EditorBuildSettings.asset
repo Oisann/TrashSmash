@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/controllerMapper.unity
+    guid: 438d07ac413f3c3479f41660e51961e6
+  - enabled: 1
+    path: Assets/_Scenes/TrashHoarder.unity
+    guid: d6355449e7729e34e95a3377739052cc
+  - enabled: 1
+    path: Assets/_Scenes/HUD.unity
+    guid: d25d8afac6e7e5a4d8b09f5e23e4f12b
+  - enabled: 1
+    path: Assets/_Scenes/CollectFallingTrash.unity
+    guid: ad9d85cf886719e478830bed084b05bd
+  - enabled: 1
+    path: Assets/_Scenes/OvenThing.unity
+    guid: dd1b962ff04e75e4799f0a301f69304d
+  - enabled: 1
+    path: Assets/_Scenes/Balle knall og fall.unity
+    guid: 4fccb49c14a5db54182026057b13a22c
+  - enabled: 1
+    path: Assets/_Scenes/winners.unity
+    guid: 0e734b03915ab5249b09b385929b31eb
